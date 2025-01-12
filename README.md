@@ -1,3 +1,6 @@
+**Bienvenidos a mi proyecto de dashboard en Excel de "The Power"! 💪📊✨**
+ 
+
 Explicación de la metodología realizada para entrega de proyecto Dashboard & Análisis de datos:
 Inicialmente, traté de buscar una base de datos (BBDD) con información relevante, que pudiera darme juego para un buen análisis y que fuera fácil de entender. Despúes de explorar varias webs y BBDD, me decanté por una que indicaba información sobre las características de las posiciones relacionadas con el mundo de la ciencia de datos, y las diferentes posibilidades de salarios.
 Aunque el tema no es de los más interesantes, creo que daba juego ya que incluia columnas de años, salarios y diferentes caracteristicas de la posición en diferentes empresas, lo que me llevaría a poder realizar un buen análisis y dashboard.
