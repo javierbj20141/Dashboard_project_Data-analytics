@@ -1,4 +1,5 @@
 **Bienvenidos a mi proyecto de dashboard en Excel de "The Power"! 💪📊✨**
+
 !header 
 
 Explicación de la metodología realizada para entrega de proyecto Dashboard & Análisis de datos:
