@@ -1,6 +1,6 @@
-# Mi Proyecto
+# Mi Proyecto de Dashboard
 
-!Excela
+!Description
 
 Bienvenido a mi proyecto. Aquí encontrarás toda la información necesaria para comenzar.
 
