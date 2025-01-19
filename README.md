@@ -1,8 +1,7 @@
 # Mi Proyecto de Dashboard
 
-[!bandera-de-europa.171](https://github.com/javierbj20141/Dashboard_project_Data-analytics/blob/main/bandera-de-europa.171.jpg)
 
-Bienvenido a mi proyecto. Aquí encontrarás toda la información necesaria para comenzar.
+
 
 **Bienvenidos a mi proyecto de dashboard en Excel de "The Power"! 💪📊✨**
 
