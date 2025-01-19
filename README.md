@@ -5,16 +5,16 @@
 
 **Bienvenidos a mi proyecto de dashboard en Excel de "The Power"! 💪📊✨**
 
-Explicación de la metodología realizada para entrega de proyecto Dashboard & Análisis de datos:
-Inicialmente, traté de buscar una base de datos (BBDD) con información relevante, que pudiera darme juego para un buen análisis y que fuera fácil de entender. Despúes de explorar varias webs y BBDD, me decanté por una que indicaba información sobre las características de las posiciones relacionadas con el mundo de la ciencia de datos, y las diferentes posibilidades de salarios.
-Aunque el tema no es de los más interesantes, creo que daba juego ya que incluia columnas de años, salarios y diferentes caracteristicas de la posición en diferentes empresas, lo que me llevaría a poder realizar un buen análisis y dashboard.
+El mundo de los datos es un mundo en constante evolución. Actualmente, las empresas tienen que se capaces de poder gestionar y sacar partido a toda esa información. No obstante, en la actualidad hay muchisimas posiciones relacionadas con este campo, todas ellas centradas en puntos diferentes dentro de la cadena de valor del dato, con roles totalmente distintos. El objetivo de de este análisis es identificar que elementos hacen que una posición relaccionada con el ámbito del dato esté mejor pagada que otra. Por ello, se tendrán en cuenta diferentes factores como años de experiencia, localización, tamaño, tipo de contrato, etc.
 
-Inicialmente cree la tabla con todos los datos, añadiendo algunas columnas más que podían ofrecer infirmación relevante (Continente, id y ¿viven donde trabajan?), y estudiando la tipología de los mismos. Se puede enocntrar en a primera pestaña del archivo.
-Despúes, a medida de que iba detectando información relevante que mostrar en el dashboard, iba creando la tabla dinámica, y después incluyendo el gráfico, dato, big numbers o tabla en el dashboard, por lo que iba haciendo análisis y dashboard al mismo tiempo.
-El dashboard tiene un formato similar a la plantilla que se ofrece en las lecciones grabadas, con ligeros cambios y estílos que se adaptan a la tipologia de la información que quería mostrar, siempe tratando de mostrar infomación relevante, de diferentes formas y maneras, y con posibilidad de segmentación.
-Mis sensaciones durante este proyecto han sido muy buenas, ya que aunque habitualmente estoy acostumbrdo a excel y tablas dinámicas, he descubierto muchas más funcionalidades y formas de hacer el trabajo más estetíco, pesentable y óptimo.
-Prácticamente lo que más me ha llevado ha sido eleguir la base de datos, y hacer un ánalisis de los mismos en profundidad. Después la creación de tablas dinámicas y gráficos ha sido más fluida a la vez que didáctica.
-Por último, estoy bastante satisfecho con el análisis y dashboard realizado ya que he alcanzado todas las metas propuestas para este proyecto, consiguiendo crear un dashboard relevante, dinámico y estético. 
-Él único "pero" podría ser que he sido poco innovador en la forma del dashboard, aunque por otro lado mi objetivo era ser capaz de replicar, con los mínimos errores, el tipo de dashboard visto en las lecciones grabadas, cosa que considero que he conseguido.
-Muchas gracias por vuestra lectura y corrección del proyecto.
-Un saludo, Javi
+Es por ello por lo que este análisis se hace desde diferentes enfoques, para concocer cuales pueden ser los factores diferenciales y las tendencias en las que destacan las posiciones con mejor salario. Además, otro de los objetivos principales será conocer latendencia de los salarios tras los años, para identificar si la práctica que llevan a cabo los profesionales del dato, es una práctica cada vez mas valorada e implantada en las empresas, lo que significaria que los salarios están subiendo año tras año. En definitiva, lo que se pretende es llevar a cabo un analaisis general del ámbito de los datos, para identificar factores a tener en cuenta antes de iniciarse o cambiar a este sector. Eventualmente, la situación ideal a la hora de tomar una decisión es contar con la mayor cantidad de información posible, ya que esto aumenta tus probabilidades de tomar una buena decisión. Este analaisis está enfocado para todas aquellas personas que están interesadas en aumentar sus conocimientos en el sector de los datos!!!
+
+Para facilitar la organización de archivos de este repositorio, estos son los archivos que podréis encontrar:
+
+- Arhivo CSV con la información en bruto
+- Conclusiones del análisis
+- Dshboard definitivo
+- Imagen del logo de excel
+
+Espero que os guste, Un slaudo
+Javier
