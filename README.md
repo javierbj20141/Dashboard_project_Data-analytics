@@ -1,6 +1,6 @@
 # Mi Proyecto de Dashboard
 
-[(https://github.com/javierbj20141/Dashboard_project_Data-analytics/blob/main/Excel.png)](https://github.com/javierbj20141/Dashboard_project_Data-analytics/blob/main/Excel.PNG)
+[(Descripcion)](https://github.com/javierbj20141/Dashboard_project_Data-analytics/blob/main/Excel.PNG)
 
 
 **Bienvenidos a mi proyecto de dashboard en Excel de "The Power"! 💪📊✨**
